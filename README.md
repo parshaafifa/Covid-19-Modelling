@@ -43,6 +43,6 @@ matplotlib
 ```bash
 python covid_analysis.py
 ```
-Outputs are written to `seir_outputs/`.
+
 
 
